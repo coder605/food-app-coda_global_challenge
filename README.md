@@ -1,5 +1,6 @@
 # Food App
 
+changed demo
 This is the frontend for a Food application. I participated in coda-global challenge on Hackerearth and build this in a 6 hr contest.
 
 ## App features
@@ -8,17 +9,14 @@ This is the frontend for a Food application. I participated in coda-global chall
 
 ![DeepinScreenshot_select-area_20200904030516](https://user-images.githubusercontent.com/28767301/92176594-665d1680-ee5c-11ea-81d7-1bdc9810db51.png)
 
-
 2. Quick view
-![DeepinScreenshot_select-area_20200904030525](https://user-images.githubusercontent.com/28767301/92176602-6b21ca80-ee5c-11ea-80e6-6e369c0784e4.png)
-
+   ![DeepinScreenshot_select-area_20200904030525](https://user-images.githubusercontent.com/28767301/92176602-6b21ca80-ee5c-11ea-80e6-6e369c0784e4.png)
 
 3. Detailed view
 
 ![DeepinScreenshot_select-area_20200904030540](https://user-images.githubusercontent.com/28767301/92176609-7248d880-ee5c-11ea-92f6-6832462684b9.png)
 
-
-4. Search a food 
+4. Search a food
 
 ![DeepinScreenshot_select-area_20200904030610](https://user-images.githubusercontent.com/28767301/92176607-6fe67e80-ee5c-11ea-8bfb-9a726daaad47.png)
 
@@ -44,7 +42,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
-
 
 ### `yarn build`
 
